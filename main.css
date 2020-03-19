@@ -1,0 +1,29 @@
+body {margin: 0px;
+  background-color: ash; 
+}
+
+h1 {
+  margin: 0px;
+  color: white;
+  text-align: center;
+  font-family: Arial Narrow;
+  font-size: 50px;
+  background: #4496B7;
+  padding: 5px;
+  transition: 2px;
+
+}
+
+nav {
+    margin: 0px;
+	background: #429767;
+	color: #FFFFFF;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+img {
+
+}
